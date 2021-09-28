@@ -4,7 +4,7 @@
 
 ### *UCSD Class of 2023*
 
-![Profile Picture](Vivian Dang.heic)
+![Profile Picture](pfp.jpg)
 
 I am a third year student at UC San Diego studying Math-Computer Science. I am currently looking for Summer 2022 Software Engineering Internships.
 
