@@ -4,15 +4,15 @@
 
 ### *UCSD Class of 2023*
 
-![Profile Picture](https://drive.google.com/file/d/13tVj8Bn8aGw2jC-a_laKgvAKXiM7LLIO/view?usp=sharing)
+![Profile Picture](Vivian Dang.heic)
 
 I am a third year student at UC San Diego studying Math-Computer Science. I am currently looking for Summer 2022 Software Engineering Internships.
 
 >"To me programming is more than an important practical art. It is also a gigantic undertaking in the foundations of knowledge" - Grace hopper
 
-I have 3 years of coding experience, from university courses, projects, and an internship at General Atomics Aeronautical Systems.
+I have 3 years of coding experience, from university courses, projects, and an internship at General Atomics Aeronautical Systems. Click here to see more [about me](#About-Me)
 
-#### <a name="Links"></a>Links!
+#### <a name="Links"></a>Links
 [LinkedIn](https://www.linkedin.com/in/viviantdangg/)
 
 #### About Me
